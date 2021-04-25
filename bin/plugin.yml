@@ -1,0 +1,9 @@
+name: CataEvent
+version: 1.0
+author: Liskoh
+main: me.liskoh.events.EventsPlugin
+depend:
+ - PlaceholderAPI
+commands:
+  cataevent:
+  checkevent:

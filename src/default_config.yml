@@ -1,0 +1,28 @@
+cata_event:
+  test0:
+    day: Dimanche
+    type: "koth"
+    name: "koth"
+    hour: 15
+    minute: 20
+    commands:
+      - 'say Hello World'
+      - 'say test0'
+  test1:
+    day: Dimanche
+    type: "totem"
+    name: "totem"
+    hour: 16
+    minute: 20
+    commands:
+      - 'say Hello World'
+      - 'say test0'
+  test2:
+    day: Samedi
+    type: "nexus"
+    name: "nexus"
+    hour: 16
+    minute: 00
+    commands:
+      - 'say Hello World'
+      - 'say test0'      
